@@ -17,7 +17,7 @@
 
 - It was born out of frustation while I was reading a complicated post or blog (I don't remember which) and I had to scroll to a part of the website time and again.
 
-- This extension aims to solve that issue. It works like a physical thumb pin. You can pin a specific part of website and return to that part without constant scrolling or mental breakdown.
+- This extension aims to solve that issue. It works as a physical thumb pin. You can pin a specific part of website and return to that part without constant scrolling or mental breakdown.
 
 ---
 
