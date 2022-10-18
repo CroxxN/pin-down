@@ -7,8 +7,8 @@
 <br/>
 
 <p align="center">
-<img align="centre" src="images/pin.png"/>
-<img src="images/magnet.png" width="100px" style="margin-left=20px;"/>
+<img align="centre" src="assets/images/pin.png"/>
+<img src="assets/images/magnet.png" width="100px" style="margin-left=20px;"/>
 
 <p align="center">(I know the logo is shit)</p>
 </p>
