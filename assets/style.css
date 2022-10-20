@@ -6,6 +6,7 @@ img.pinDownMagnet{
     cursor: pointer;
     width: 100px;
     box-shadow: 10px black;
+    z-index: 100;
 }
 
 img.pinDownPin{
