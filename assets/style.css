@@ -1,0 +1,14 @@
+img.pinDownMagnet{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    cursor: pointer;
+    width: 100px;
+    box-shadow: 10px black;
+}
+
+img.pinDownPin{
+    position: absolute;
+    z-index: 100;
+}

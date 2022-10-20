@@ -3,15 +3,6 @@
     "description": "Pin a Website",
     "version": "1.0",
     "manifest_version": 3,
-    "background": {
-        "service_worker": "background.js"
-    },
-    "content_scripts": [
-      {
-        "matches": ["<all_urls>"],
-        "js": ["/assets/jquery-3.6.1.min.js"]
-      }
-    ],
     "permissions": ["storage", "activeTab", "scripting"],
     "action": {
         "default_popup": "popup.html",
@@ -30,7 +21,7 @@
     },
     "web_accessible_resources": [
         {
-          "resources": [ "*.png", "/assets/jquery-3.6.1.min.js" ],
+          "resources": [ "*.png", "*.js", "*.css" ],
           "matches": [ "<all_urls>" ]
         }
       ]
