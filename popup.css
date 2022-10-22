@@ -9,7 +9,10 @@ body{
     width: 300px;
 }
 
+.frontpageImage{
+    width: 290px;
 
+}
 
 .buttonsContainer{
     display: flex;
